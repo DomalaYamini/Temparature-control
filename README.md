@@ -6,7 +6,7 @@ Components Needed:
 DC Motor
 LM35 Temperature Sensor
 Arduino (or any other microcontroller)
-Motor Driver (if required)
+Motor Driver 
 Power Supply
 Jumper Wires
 Breadboard (optional, for prototyping)
